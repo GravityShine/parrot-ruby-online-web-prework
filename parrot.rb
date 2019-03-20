@@ -1,3 +1,5 @@
-def parrot (x="Pretty bird!", "Squawk!")
-return "x"
+def parrot (x, x1)
+  x = Pretty Bird!
+return
+end
 end
