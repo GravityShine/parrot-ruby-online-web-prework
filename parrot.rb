@@ -1,4 +1,4 @@
 def parrot (x, x1)
-  x = Pretty Bird!
+  x = Squawk!
 return
 end
