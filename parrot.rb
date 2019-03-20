@@ -1,4 +1,4 @@
-def parrot (x, x1)
+def parrot
   x = Squawk!
 return
 end
