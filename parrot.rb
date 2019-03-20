@@ -1,4 +1,3 @@
-def parrot
-  x = Squawk!
-return
+def parrot(x = "Squawk!")
+return x
 end
